@@ -1,0 +1,22 @@
+body{
+   background-image: url('books.jpg');
+}
+
+h1,
+p {
+    color: rgb(204, 49, 116);
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    line-height: 20px;
+    white-space: pre-wrap;
+}
+
+h2{
+    font-weight: 900;
+    text-indent: 50px;
+    text-shadow: 2px 2px 5px red;
+}
